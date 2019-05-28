@@ -58,6 +58,6 @@ body {
 
 .gridimg td:hover {
     transition: .5s ease-in-out;
-    border: lightslategray 5px solid;
-    transform: scale(1.5)
+    border: teal 5px solid;
+    transform: scale(1.2)
 }

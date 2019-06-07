@@ -66,3 +66,21 @@ iframe {
     width: 500px;
     height: 300px
 }
+
+.navbar {
+    overflow: hidden;
+    width: 100%;
+    text-align: center
+
+  }
+
+i{
+    color: rgba(243, 148, 119, 0.966);
+    font-size: 2.0rem;
+
+}
+i:hover{
+    color: blue;
+    font-size: 2.5rem;
+    transform: scaleX(-1)
+}
